@@ -4,7 +4,7 @@
 
 ## 📚 GSVET Software \[GNSS Signal Verification and Evaluation Tool\] V1.0 Product Manual
 
-### (See the file GSVET_Instruction_chinese for instruction images)
+### (See the file  [GSVET_Instruction.pdf](https://github.com/user-attachments/files/23717011/GSVET_Instruction.pdf) for instruction images)
 
 ### Software Introduction
 
@@ -115,5 +115,6 @@ The functions of this software include:
     * Users may consider the comparison of detection methods, the effect of signal isolation, etc..
     * This requires professional expertise and knowledge in areas such as data science, signal analysis, etc..
     * The software provides users with different tools to experiment and produce multiple forms of results. The possibilities listed are just random examples of result analysis.
+[GSVET_Instruction.pdf]
 
 ***
