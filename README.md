@@ -4,6 +4,8 @@
 
 ## 📚 GSVET Software \[GNSS Signal Verification and Evaluation Tool\] V1.0 Product Manual
 
+### (See the file GSVET_Instruction_chinese for instruction images)
+
 ### Software Introduction
 
 * **Software Name:** GNSS Signal Verification and Evaluation Tool Software
